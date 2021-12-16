@@ -1,7 +1,7 @@
 name: window_desktop_ui
 description: A package to make desktop-like ui
 version: 0.0.1
-homepage:
+homepage: https://github.com/CorsDev/window_desktop_ui
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
